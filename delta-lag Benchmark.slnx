@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Inspector/Inspector.csproj" Id="6e8a6e28-8270-459e-812a-b280b2dfa339" />
+  <Project Path="bmark.csproj" />
+</Solution>
